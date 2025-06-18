@@ -1,7 +1,7 @@
 # LeedCode
 [15 3Sum-medium](https://leetcode.com/problems/3sum/description/) &nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/3sum.cpp)
 
-16 3Sum Closest - medium (https://leetcode.com/problems/3sum-closest/description/)
+[16 3Sum Closest - medium](https://leetcode.com/problems/3sum-closest/description/) &nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/3sum_closest.cpp)
 
  2 Add Two Numbers - medium (https://leetcode.com/problems/add-two-numbers/description/)
  
