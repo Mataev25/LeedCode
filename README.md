@@ -1,5 +1,5 @@
 # LeedCode
-[15 3Sum-medium](https://leetcode.com/problems/3sum/description/) | [код](https://github.com/Mataev25/LeedCode/blob/main/3sum.cpp)
+[15 3Sum-medium](https://leetcode.com/problems/3sum/description/)  |  [код](https://github.com/Mataev25/LeedCode/blob/main/3sum.cpp)
 
 16 3Sum Closest - medium (https://leetcode.com/problems/3sum-closest/description/)
 
