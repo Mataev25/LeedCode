@@ -1,9 +1,14 @@
 # LeedCode
 15 3Sum - medium (https://leetcode.com/problems/3sum/description/)
+
 16 3Sum Closest - medium (https://leetcode.com/problems/3sum-closest/description/)
+
  2 Add Two Numbers - medium (https://leetcode.com/problems/add-two-numbers/description/)
+ 
 441 Arranging Coins - easy (https://leetcode.com/problems/arranging-coins/description/)
+
 121 Best Time to Buy and Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
 122 Best Time to Buy and Sell Stock 2 - medium (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 123 Best Time to Buy and Sell Stock 3 - hard (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 188 Best Time to Buy and Sell Stock 4 - hard (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
