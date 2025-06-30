@@ -109,6 +109,8 @@
 
 [27 Remove Element - easy](https://leetcode.com/problems/remove-element/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/remove_element.cpp)
 
+[92 Reverse Linked List - medium](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/reverse_linked_list_2.cpp)
+
 [917 Reverse Only Letters - easy](https://leetcode.com/problems/reverse-only-letters/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/reverse_only_letters.cpp)
 
 [151 Reverse Words in a String - medium](https://leetcode.com/problems/reverse-words-in-a-string/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/reverse_words_in_a_string.cpp)
