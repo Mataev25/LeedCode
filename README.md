@@ -105,7 +105,7 @@
 
 [1417 Reformat The String - easy](https://leetcode.com/problems/reformat-the-string/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/reformat_the_string.cpp)
 
-[19 Remove Nth Node From End of List - medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)&nbsp;&nbsp;[](https://github.com/Mataev25/LeedCode/blob/main/remote_nth_node_from_end_of_list.cpp)
+[19 Remove Nth Node From End of List - medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/remote_nth_node_from_end_of_list.cpp)
 
 [26 Remove Duplicates from Sorted Array - easy](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/remove_duplicates_from_sorted_array.cpp)
 
