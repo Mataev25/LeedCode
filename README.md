@@ -75,7 +75,11 @@
 
 [3 Longest Substring Without Repeating Characters - medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/longest_substring_without_repeating.cpp)
 
+[146 LRU Cache - medium](https://leetcode.com/problems/lru-cache/description/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/lru_cahce.cpp)
+
 [169 Majority Element - easy](https://leetcode.com/problems/majority-element/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/majority_element.cpp)
+
+[104 Maximum Depth of Binary Tree - easy](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/maximum_depth_of_binary_tree.cpp)
 
 [53 Maximum Subarray - medium](https://leetcode.com/problems/maximum-subarray/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/maximum_subarray.cpp)
 
@@ -100,6 +104,8 @@
 [383 Ransom Note - easy](https://leetcode.com/problems/ransom-note/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/ransom_note.cpp)
 
 [1417 Reformat The String - easy](https://leetcode.com/problems/reformat-the-string/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/reformat_the_string.cpp)
+
+[19 Remove Nth Node From End of List - medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)&nbsp;&nbsp;[](https://github.com/Mataev25/LeedCode/blob/main/remote_nth_node_from_end_of_list.cpp)
 
 [26 Remove Duplicates from Sorted Array - easy](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/remove_duplicates_from_sorted_array.cpp)
 
