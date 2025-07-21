@@ -53,6 +53,8 @@
 
 [57 Insert Interval - medium](https://leetcode.com/problems/insert-interval/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/insert_interval.cpp)
 
+[226 Invert Binary Tree - easy](https://leetcode.com/problems/invert-binary-tree/description/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/invert_binary_tree.cpp)
+
 [392 Is Subssequence - easy](https://leetcode.com/problems/is-subsequence/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/is_subsequence.cpp)
 
 [205 Isomorphic Strings - easy](https://leetcode.com/problems/isomorphic-strings/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/isomorphic_strings.cpp)
@@ -125,6 +127,8 @@
 
 [189 Rotate Array - medium](https://leetcode.com/problems/rotate-array/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/rotate_array.cpp)
 
+[100 Same Tree - easy](https://leetcode.com/problems/same-tree/description/)&nbsp;&nbsp;[кодъ(https://github.com/Mataev25/LeedCode/blob/main/same_tree.cpp)
+
 [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/search_in_rotated_sorted_array.cpp)
 
 [35 Search Insert Position - easy](https://leetcode.com/problems/search-insert-position/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/search_insert_position.cpp)
@@ -140,6 +144,10 @@
 [69 Sqrt(x) - easy](https://leetcode.com/problems/sqrtx/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/sqrt(x).cpp)
 
 [228 Summary Ranges - easy](https://leetcode.com/problems/summary-ranges/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/summary_ranges.cpp)
+
+[101 Symmetric Tree02 - easy](https://leetcode.com/problems/symmetric-tree/description/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/summetric_tree02.cpp)
+
+[101 Symmetric Tree01 - easy](https://leetcode.com/problems/symmetric-tree/description/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/symmetric_tree01.cpp)
 
 [709 To Lower Case - easy](https://leetcode.com/problems/to-lower-case/)&nbsp;&nbsp;[код](https://github.com/Mataev25/LeedCode/blob/main/to_lower_case.cpp)
 
